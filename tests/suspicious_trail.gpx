@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Test"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                         http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>Suspicious Trail</name>
+    <trkseg>
+      <trkpt lat="40.0000" lon="116.0000">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="40.0001" lon="116.0001">
+        <ele>205.0</ele>
+      </trkpt>
+      <trkpt lat="40.0002" lon="116.0002">
+        <ele>280.5</ele>
+      </trkpt>
+      <trkpt lat="40.0003" lon="116.0003">
+        <ele>283.0</ele>
+      </trkpt>
+      <trkpt lat="40.0004" lon="116.0004">
+        <ele>220.0</ele>
+      </trkpt>
+      <trkpt lat="40.0005" lon="116.0005">
+        <ele>222.0</ele>
+      </trkpt>
+      <trkpt lat="40.0006" lon="116.0006">
+        <ele>225.0</ele>
+      </trkpt>
+      <trkpt lat="40.0007" lon="116.0007">
+        <ele>140.0</ele>
+      </trkpt>
+      <trkpt lat="40.0008" lon="116.0008">
+        <ele>142.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
