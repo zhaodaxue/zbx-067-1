@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Test"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Bad XML
+    <trkseg>
+      <trkpt lat="39.9042" lon="116.4074">
+        <ele>100.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
