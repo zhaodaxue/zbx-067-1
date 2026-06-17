@@ -2,7 +2,7 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY gpx_elevation_check.py /app/gpx_elevation_check.py
+COPY *.py /app/
 
 RUN chmod +x /app/gpx_elevation_check.py
 
